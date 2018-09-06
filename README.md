@@ -10,7 +10,11 @@
  by,
  
  Reethu das,
+ 
  MTech in Technology Management,
+ 
  University of Kerala,
+ 
  Trivandrum.
+ 
  reethudas@gmail.com
