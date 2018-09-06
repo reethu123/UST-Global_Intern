@@ -1,5 +1,5 @@
 # UST-Global_Intern
- Develop an application to Create, Update &amp; View reminders.
+ Develop an application to Create, Update ,Delete &amp; View reminders.
  
  I have done this application in C using Files as backend.
  
@@ -8,6 +8,7 @@
  Vaildation is not yet done.
  
  by,
+ 
  Reethu das,
  MTech in Technology Management,
  University of Kerala,
